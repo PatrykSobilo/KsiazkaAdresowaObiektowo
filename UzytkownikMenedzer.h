@@ -26,7 +26,7 @@ class UzytkownikMenedzer
 public:
     void wypiszWszystkichUzytkownikow();
     void rejestracjaUzytkownika();
-
+    void wczytajUzytkownikowZPliku();
 };
 
 #endif
