@@ -1,0 +1,4 @@
+1|1|Ani|a|123|123|123|
+2|1|Parowa|123|asf|123|123|
+3|2|plota|123|123|123|123|
+4|2|Papuga|asf|asdf|asd|asd|

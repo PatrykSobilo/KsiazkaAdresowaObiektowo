@@ -12,7 +12,6 @@ int KsiazkaAdresowa::logowanieUzytkownika()
     if(uzytkownikMenedzer.czyUzytkownikJestZalogowany())
     {
         adresatMenedzer = new AdresatMenedzer(nazwaPlikuZAdresatami, uzytkownikMenedzer.pobierzIdZalogowanegoUzytkownika());
-        //adresatMenedzer -> wyswietlWszystkichAdresatow();
     }
 }
 
